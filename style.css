@@ -1,0 +1,76 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+h1{
+    font-size: 70px;
+    color: white;
+}
+
+h3{
+    font-size: 35px;
+    color: white;
+}
+span{
+    color: darkgoldenrod;
+}
+.first-sec{
+    display: flex;
+    background-image: url(yello.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left:0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    padding: 0%;
+
+}
+.first-div{
+    width: 50%;
+    margin-left: 70px;
+}
+.second-div{
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.first-p{
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+.button{
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 10px 20px; 
+    border: 2px solid greenyellow;
+    border-radius: 2px;
+   margin-left: 10px;
+}
+.black{
+    font-size: 70px;
+    color:darkgoldenrod;
+}
+.ki{
+    font-size: 30px;
+    color: white;
+}
+.kal{
+    color: white;
+    font-size: 40px;
+}
+.third-div{
+    margin-left: 70px;
+}
+.fourth-div{
+    margin-left: 70px;
+}
+.second-sec{
+    background-image: url(damal.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left:0%;
+    margin-right: 0%;
+    margin-top: 0%;
+    padding: 0%;
+    
+}
