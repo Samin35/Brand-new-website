@@ -74,3 +74,27 @@ span{
     padding: 0%;
     
 }
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.fifth-secction{
+    width: 30%;
+    margin-left: 50px;
+    border: yellowgreen solid 2px;
+    background-color: yellow;
+    padding: 10px 40px;
+    box-shadow: 10px 10px 10px 10px;
+}
+.hi{
+    display: flex;
+}
+.man{
+    width: 30%;
+    margin-right: 50px;
+    margin-left: 300px;
+    border: yellowgreen solid 2px;
+    background-color: yellow;
+    padding: 10px 40px;
+    box-shadow: 10px 10px 10px 10px;
+}
